@@ -1,0 +1,6 @@
+{
+  "name": "GhostPM",
+  "description": "AI Technical Project Manager & SOW Generator with Vector RAG, Semantic Caching, Benchmark Pricing, and Dev Ticket Synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
